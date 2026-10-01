@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Karthik. I'm currently learning Python and C.
+I'm also looking forward to building projects.
 
 <!--
 **Karthik-2009/Karthik-2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
