@@ -1,4 +1,5 @@
-## Hi, my name is Karthik. I'm currently learning Python and C.
+## Hi, my name is Karthik. 
+I'm currently learning Python and C.
 I'm also looking forward to building projects.
 
 <!--
